@@ -4,7 +4,7 @@ Privacy Maniac's List
 
 degoogle instruction:
 
-Make sure you can root and unlock your bootloader when buying a phoneand 
+Make sure you can root and unlock your bootloader when buying a phone
 
 install lineage OS without the gapps
 
