@@ -80,3 +80,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 clients6.google.com
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 www.google.com
+0.0.0.0 *.1e100.*
+0.0.0.0 *.android.*
+0.0.0.0 *.appspot.*
+0.0.0.0 *.ggpht.*
+0.0.0.0 *.google.*
+0.0.0.0 *.google.**
+0.0.0.0 *.google-analytics.*
+0.0.0.0 *.googleapis.*
+0.0.0.0 *.googleusercontent.*
+0.0.0.0 *.gstatic.*
+0.0.0.0 *.gvt1.*
+0.0.0.0 *.gvt2.*
+0.0.0.0 *.gvt3.*
+0.0.0.0 *.youtube.*
