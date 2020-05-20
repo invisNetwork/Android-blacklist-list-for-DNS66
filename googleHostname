@@ -1,0 +1,113 @@
+# Title: invis/googleHosts
+#
+# This host file is a merge collection of google hosts
+#
+# Date 20 May 2020
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip7-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+0.0.0.0 *.1e100.net
+0.0.0.0 accounts.google.com
+0.0.0.0 accounts.google.*
+0.0.0.0 accounts.gstatic.com
+0.0.0.0 accounts.youtube.com
+0.0.0.0 alt*.gstatic.com
+0.0.0.0 chromeos-ca.gstatic.com
+0.0.0.0 clients1.google.com
+0.0.0.0 clients2.google.com
+0.0.0.0 clients3.google.com
+0.0.0.0 clients4.google.com
+0.0.0.0 cloudsearch.googleapis.com
+0.0.0.0 commondatastorage.googleapis.com
+0.0.0.0 cros-omahaproxy.appspot.com
+0.0.0.0 dl.google.com
+0.0.0.0 dl-ssl.google.com
+0.0.0.0 *.gvt1.com
+0.0.0.0 gweb-gettingstartedguide.appspot.com
+0.0.0.0 m.google.com
+0.0.0.0 omahaproxy.appspot.com
+0.0.0.0 pack.google.com
+0.0.0.0 policies.google.com
+0.0.0.0 safebrowsing-cache.google.com
+0.0.0.0 safebrowsing.google.com
+0.0.0.0 ssl.gstatic.com
+0.0.0.0 storage.googleapis.com
+0.0.0.0 tools.google.com
+0.0.0.0 www.googleapis.com
+0.0.0.0 www.gstatic.com
+0.0.0.0 chrome.google.com
+0.0.0.0 clients2.googleusercontent.com
+0.0.0.0 lh3.ggpht.com
+0.0.0.0 lh4.ggpht.com
+0.0.0.0 lh5.ggpht.com
+0.0.0.0 lh6.ggpht.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 connectivitycheck.android.com
+0.0.0.0 play.google.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 android.com
+0.0.0.0 *.android.com
+0.0.0.0 time.android.com
+0.0.0.0 google-analytics.com
+0.0.0.0 googleusercontent.com
+0.0.0.0 *gstatic.com 
+0.0.0.0 *.gstatic.com 
+0.0.0.0 *.ggpht.com
+0.0.0.0 android.clients.google.com
+0.0.0.0 *.gvt2.com
+0.0.0.0 *.gvt3.com
+0.0.0.0 *.googleapis.com
+0.0.0.0 gcm-http.googleapis.com
+0.0.0.0 gcm-xmpp.googleapis.com
+0.0.0.0 android.googleapis.com
+0.0.0.0 fcm.googleapis.com
+0.0.0.0 fcm-xmpp.googleapis.com
+0.0.0.0 pki.google.com
+0.0.0.0 clients5.google.com
+0.0.0.0 clients6.google.com
+0.0.0.0 connectivitycheck.gstatic.com
+0.0.0.0 www.google.com
+
+#not sure of the syntax so doing both option
+0.0.0.0 *1e100*
+0.0.0.0 *google*
+0.0.0.0 *gstatic*
+0.0.0.0 *youtube*
+0.0.0.0 *googleapis*
+0.0.0.0 *appspot*
+0.0.0.0 *.gvt1*
+0.0.0.0 *googleusercontent*
+0.0.0.0* ggpht*
+0.0.0.0 *android*
+0.0.0.0 *google-analytics*
+0.0.0.0 *googleusercontent*
+0.0.0.0 *gvt2*
+0.0.0.0 *gvt3*
+
+0.0.0.0 *.1e100.*
+0.0.0.0 *.google.*
+0.0.0.0 *.gstatic.*
+0.0.0.0 *.youtube.*
+0.0.0.0 *.googleapis.*
+0.0.0.0 *.appspot.*
+0.0.0.0 *..gvt1.*
+0.0.0.0 *.googleusercontent.*
+0.0.0.0 *.ggpht.*
+0.0.0.0 *.android.*
+0.0.0.0 *.google-analytics.*
+0.0.0.0 *.googleusercontent.*
+0.0.0.0 *.gvt2.*
+0.0.0.0 *.gvt3.*
