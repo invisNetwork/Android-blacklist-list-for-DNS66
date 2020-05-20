@@ -1,2 +1,2 @@
-# Android-blacklist-list-for-DNS66
+# Android-blocklist-blacklist-for-DNS66
 Privacy Maniac's List
