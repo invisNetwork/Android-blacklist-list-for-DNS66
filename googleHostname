@@ -1,4 +1,4 @@
-# Title: invis/googleHosts
+# Title: invisNetwork/google-Android-Blocklist-Blacklist-for-DNS66
 #
 # This host file is a merge collection of google hosts
 #
@@ -81,3 +81,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 www.google.com
 0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
